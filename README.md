@@ -1,7 +1,11 @@
 # all-the-attacks
 
 Usage:
+    ./ata.py net netstat
 
+    "Actor name to lookup: " OilRig
+
+    "Technique to lookup: " Remote FIle Copy
 
 Sample:
 
