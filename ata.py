@@ -5,10 +5,10 @@ import argparse
 
 parser = argparse.ArgumentParser (
     prog="all the attacks",
-    description=""
+    description="Tool to capture the actor name, their techniques and mitigation workflows."
 )
 
-parser.add_argument("tool", help="")
+parser.add_argument("tool", help="tool to look up")
 
 args = parser.parse_args()
 
